@@ -1,0 +1,25 @@
+#include <bits/stdc++.h>
+#define _ ios_base::sync_with_stdio(0);cin.tie(0);
+#define endl '\n'
+#define pb push_back
+#define all(x) (x).begin(), (x).end()
+#define sz(x) (int)(x).size() 
+
+using namespace std;
+
+typedef long long ll;
+typedef unsigned long long llu;
+
+int main(){ _
+    int tt;
+    cin >> tt;
+    while(tt--) {
+        float a, b, c;
+        cin >> a >> b >> c;
+        float ans = (2 * a + 3 * b + 5 * c) / 10;
+        cout << fixed << setprecision(1);
+        cout << ans << endl;
+    }
+    
+    return 0;
+}
