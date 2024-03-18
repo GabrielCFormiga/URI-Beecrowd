@@ -1,23 +1,36 @@
 #include <bits/stdc++.h>
 #define _ ios_base::sync_with_stdio(0);cin.tie(0);
 #define endl '\n'
-#define pb push_back
-#define all(x) (x).begin(), (x).end()
-#define sz(x) (int)(x).size() 
 
 using namespace std;
 
-typedef long long ll;
-typedef unsigned long long llu;
+// phi(p^k) = p^k - p^(k - 1)  
+unsigned phi(unsigned p, unsigned k){
+    unsigned result = 1;
+    for(unsigned i = 1; i <= k - 1; i++) {
+        result *= p;
+    }
+    return result * (p - 1);
+}
 
 int main(){ _
-    int n;
+    unsigned n;
     while(cin >> n) {
-        int count = 1; // case k = 1
-        for(int i = 2; i <= n / 2; i++) {
-            if(n % i != 0) count++;
+        unsigned ans = 1;
+        for(unsigned i = 2; i * i <= n; i++) {
+            unsigned power = 0;
+            bool is_divisor = false;
+            while(n % i == 0) {
+                is_divisor = true;
+                power++;
+                n /= i;
+            }
+            if(is_divisor) ans *= phi(i, power);
         }
-        cout << count << endl;
+
+        if(n > 1) ans *= (n - 1);
+
+        cout << ans / 2 << endl;
     }
     
     return 0;
