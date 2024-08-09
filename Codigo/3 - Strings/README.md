@@ -1,0 +1,157 @@
+# Strings (16 / 150)
+
+## Problemas resolvidos
+
+- [x]  [1024](https://www.beecrowd.com.br/repository/UOJ_1024.html) - Criptografia
+- [x]  [1120](https://www.beecrowd.com.br/repository/UOJ_1120.html) - Revisão de Contrato
+- [x]  [1168](https://www.beecrowd.com.br/repository/UOJ_1168.html) - LED
+- [x]  [1241](https://www.beecrowd.com.br/repository/UOJ_1241.html) - Encaixa ou Não II
+- [x]  [1551](https://www.beecrowd.com.br/repository/UOJ_1551.html) - Frase Completa
+- [x]  [1873](https://www.beecrowd.com.br/repository/UOJ_1873.html) - Pedra-papel-tesoura-lagarto-Spock
+- [x]  [2062](https://www.beecrowd.com.br/repository/UOJ_2062.html) - OBI URI
+- [x]  [2137](https://www.beecrowd.com.br/repository/UOJ_2137.html) - A Biblioteca do Senhor Severino
+- [x]  [2153](https://www.beecrowd.com.br/repository/UOJ_2153.html) - Sanduicheiche
+- [x]  [2174](https://www.beecrowd.com.br/repository/UOJ_2174.html) - Coleção de Pomekon
+- [x]  [2242](https://www.beecrowd.com.br/repository/UOJ_2242.html) - Huaauhahhuahau
+- [x]  [2253](https://www.beecrowd.com.br/repository/UOJ_2253.html) - Validador de Senhas
+- [x]  [2356](https://www.beecrowd.com.br/repository/UOJ_2356.html) - Bactéria I
+- [x]  [2591](https://www.beecrowd.com.br/repository/UOJ_2591.html) - HameKameKa
+- [x]  [2694](https://www.beecrowd.com.br/repository/UOJ_2694.html) - Problema com a Calculadora
+- [x]  [2728](https://www.beecrowd.com.br/repository/UOJ_2728.html) - Grace Hopper, a Vovó do Cobol
+
+## Problemas não resolvidos
+
+- [ ]  [1141](https://www.beecrowd.com.br/repository/UOJ_1141.html) - Cultivando Strings
+- [ ]  [1222](https://www.beecrowd.com.br/repository/UOJ_1222.html) - Concurso de Contos
+- [ ]  [1234](https://www.beecrowd.com.br/repository/UOJ_1234.html) - Sentença Dançante
+- [ ]  [1235](https://www.beecrowd.com.br/repository/UOJ_1235.html) - De Dentro para Fora
+- [ ]  [1237](https://www.beecrowd.com.br/repository/UOJ_1237.html) - Comparação de Substring
+- [ ]  [1238](https://www.beecrowd.com.br/repository/UOJ_1238.html) - Combinador
+- [ ]  [1239](https://www.beecrowd.com.br/repository/UOJ_1239.html) - Atalhos Bloggo
+- [ ]  [1243](https://www.beecrowd.com.br/repository/UOJ_1243.html) - O Quão Fácil é...
+- [ ]  [1248](https://www.beecrowd.com.br/repository/UOJ_1248.html) - Plano de Dieta
+- [ ]  [1253](https://www.beecrowd.com.br/repository/UOJ_1253.html) - Cifra de César
+- [ ]  [1254](https://www.beecrowd.com.br/repository/UOJ_1254.html) - Substituição de Tag
+- [ ]  [1255](https://www.beecrowd.com.br/repository/UOJ_1255.html) - Frequência de Letras
+- [ ]  [1257](https://www.beecrowd.com.br/repository/UOJ_1257.html) - Array Hash
+- [ ]  [1262](https://www.beecrowd.com.br/repository/UOJ_1262.html) - Leitura Múltipla
+- [ ]  [1263](https://www.beecrowd.com.br/repository/UOJ_1263.html) - Aliteração
+- [ ]  [1272](https://www.beecrowd.com.br/repository/UOJ_1272.html) - Mensagem Oculta
+- [ ]  [1273](https://www.beecrowd.com.br/repository/UOJ_1273.html) - Justificador
+- [ ]  [1276](https://www.beecrowd.com.br/repository/UOJ_1276.html) - Faixa de Letras
+- [ ]  [1277](https://www.beecrowd.com.br/repository/UOJ_1277.html) - Pouca Frequência
+- [ ]  [1278](https://www.beecrowd.com.br/repository/UOJ_1278.html) - Justificador II
+- [ ]  [1284](https://www.beecrowd.com.br/repository/UOJ_1284.html) - Digitando no Telefone Celular
+- [ ]  [1287](https://www.beecrowd.com.br/repository/UOJ_1287.html) - Processador Amigável de Inteiros
+- [ ]  [1305](https://www.beecrowd.com.br/repository/UOJ_1305.html) - Arredondamento por Valor de Corte
+- [ ]  [1313](https://www.beecrowd.com.br/repository/UOJ_1313.html) - Dicionário Portuñol
+- [ ]  [1332](https://www.beecrowd.com.br/repository/UOJ_1332.html) - Um-Dois-Três
+- [ ]  [1335](https://www.beecrowd.com.br/repository/UOJ_1335.html) - Recuperação de Arquivos
+- [ ]  [1341](https://www.beecrowd.com.br/repository/UOJ_1341.html) - Crianças em uma Grade
+- [ ]  [1355](https://www.beecrowd.com.br/repository/UOJ_1355.html) - Compressor
+- [ ]  [1364](https://www.beecrowd.com.br/repository/UOJ_1364.html) - Emoticons :-)
+- [ ]  [1367](https://www.beecrowd.com.br/repository/UOJ_1367.html) - Ajude!
+- [ ]  [1373](https://www.beecrowd.com.br/repository/UOJ_1373.html) - Sequências de DNA
+- [ ]  [1377](https://www.beecrowd.com.br/repository/UOJ_1377.html) - Recuperador de Arquivos
+- [ ]  [1385](https://www.beecrowd.com.br/repository/UOJ_1385.html) - Recuperação de Relatório
+- [ ]  [1386](https://www.beecrowd.com.br/repository/UOJ_1386.html) - Códigos Ambíguos
+- [ ]  [1406](https://www.beecrowd.com.br/repository/UOJ_1406.html) - Jukebox
+- [ ]  [1448](https://www.beecrowd.com.br/repository/UOJ_1448.html) - Telefone Sem Fio
+- [ ]  [1456](https://www.beecrowd.com.br/repository/UOJ_1456.html) - Brainfuck
+- [ ]  [1458](https://www.beecrowd.com.br/repository/UOJ_1458.html) - Campeonato de SMS
+- [ ]  [1491](https://www.beecrowd.com.br/repository/UOJ_1491.html) - Linguagem de Blogger
+- [ ]  [1503](https://www.beecrowd.com.br/repository/UOJ_1503.html) - Maior Palíndromo Comum Você Deve Encontrar
+- [ ]  [1516](https://www.beecrowd.com.br/repository/UOJ_1516.html) - Imagem
+- [ ]  [1519](https://www.beecrowd.com.br/repository/UOJ_1519.html) - Abreviações
+- [ ]  [1530](https://www.beecrowd.com.br/repository/UOJ_1530.html) - Quantas Substrings?
+- [ ]  [1556](https://www.beecrowd.com.br/repository/UOJ_1556.html) - Removendo Letras
+- [ ]  [1581](https://www.beecrowd.com.br/repository/UOJ_1581.html) - Conversa Internacional
+- [ ]  [1586](https://www.beecrowd.com.br/repository/UOJ_1586.html) - Cabo de Guerra
+- [ ]  [1607](https://www.beecrowd.com.br/repository/UOJ_1607.html) - Avance as Letras
+- [ ]  [1629](https://www.beecrowd.com.br/repository/UOJ_1629.html) - DescompactaFACE
+- [ ]  [1632](https://www.beecrowd.com.br/repository/UOJ_1632.html) - Variações
+- [ ]  [1664](https://www.beecrowd.com.br/repository/UOJ_1664.html) - Bullshit Bingo
+- [ ]  [1667](https://www.beecrowd.com.br/repository/UOJ_1667.html) - HTML
+- [ ]  [1686](https://www.beecrowd.com.br/repository/UOJ_1686.html) - Sequência de Palíndromos
+- [ ]  [1726](https://www.beecrowd.com.br/repository/UOJ_1726.html) - Amigos
+- [ ]  [1737](https://www.beecrowd.com.br/repository/UOJ_1737.html) - Etaoin Shrdlu
+- [ ]  [1768](https://www.beecrowd.com.br/repository/UOJ_1768.html) - Árvore de Natal
+- [ ]  [1781](https://www.beecrowd.com.br/repository/UOJ_1781.html) - Guga e a String
+- [ ]  [1803](https://www.beecrowd.com.br/repository/UOJ_1803.html) - Matring
+- [ ]  [1842](https://www.beecrowd.com.br/repository/UOJ_1842.html) - A Ordem da Fênix
+- [ ]  [1846](https://www.beecrowd.com.br/repository/UOJ_1846.html) - Numero Para Nome
+- [ ]  [1853](https://www.beecrowd.com.br/repository/UOJ_1853.html) - O Jogo da Confiança de Daenerys
+- [ ]  [1859](https://www.beecrowd.com.br/repository/UOJ_1859.html) - Arqueologia Congelante
+- [ ]  [1868](https://www.beecrowd.com.br/repository/UOJ_1868.html) - Espiral Quadrada
+- [ ]  [1871](https://www.beecrowd.com.br/repository/UOJ_1871.html) - Zero vale Zero
+- [ ]  [1898](https://www.beecrowd.com.br/repository/UOJ_1898.html) - Soma de Propina
+- [ ]  [1941](https://www.beecrowd.com.br/repository/UOJ_1941.html) - Palíndromo
+- [ ]  [2000](https://www.beecrowd.com.br/repository/UOJ_2000.html) - Adeildo da Odonto
+- [ ]  [2017](https://www.beecrowd.com.br/repository/UOJ_2017.html) - Seis Strings
+- [ ]  [2023](https://www.beecrowd.com.br/repository/UOJ_2023.html) - A Última Criança Boa
+- [ ]  [2025](https://www.beecrowd.com.br/repository/UOJ_2025.html) - Joulupukki
+- [ ]  [2035](https://www.beecrowd.com.br/repository/UOJ_2035.html) - Projetando Camisetas
+- [ ]  [2049](https://www.beecrowd.com.br/repository/UOJ_2049.html) - Números de Ahmoc
+- [ ]  [2055](https://www.beecrowd.com.br/repository/UOJ_2055.html) - Lisp é Melhor que Java, C e C++
+- [ ]  [2087](https://www.beecrowd.com.br/repository/UOJ_2087.html) - Conjuntos Bons e Ruins
+- [ ]  [2093](https://www.beecrowd.com.br/repository/UOJ_2093.html) - Fuja para Escapar
+- [ ]  [2097](https://www.beecrowd.com.br/repository/UOJ_2097.html) - Nome para Número
+- [ ]  [2108](https://www.beecrowd.com.br/repository/UOJ_2108.html) - Contando Caracters
+- [ ]  [2132](https://www.beecrowd.com.br/repository/UOJ_2132.html) - Não é Mais Um Joguinho Canadense!
+- [ ]  [2150](https://www.beecrowd.com.br/repository/UOJ_2150.html) - Vogais Alienígenas
+- [ ]  [2157](https://www.beecrowd.com.br/repository/UOJ_2157.html) - Sequência Espelho
+- [ ]  [2292](https://www.beecrowd.com.br/repository/UOJ_2292.html) - Painel LED
+- [ ]  [2314](https://www.beecrowd.com.br/repository/UOJ_2314.html) - Indentador
+- [ ]  [2336](https://www.beecrowd.com.br/repository/UOJ_2336.html) - ABC
+- [ ]  [2358](https://www.beecrowd.com.br/repository/UOJ_2358.html) - Bactéria II
+- [ ]  [2484](https://www.beecrowd.com.br/repository/UOJ_2484.html) - Abracadabra
+- [ ]  [2509](https://www.beecrowd.com.br/repository/UOJ_2509.html) - Editor Latex
+- [ ]  [2535](https://www.beecrowd.com.br/repository/UOJ_2535.html) - Feira de Adoção
+- [ ]  [2549](https://www.beecrowd.com.br/repository/UOJ_2549.html) - Nomes de Usuários
+- [ ]  [2557](https://www.beecrowd.com.br/repository/UOJ_2557.html) - R+L=J
+- [ ]  [2583](https://www.beecrowd.com.br/repository/UOJ_2583.html) - Chirrin Chirrion
+- [ ]  [2587](https://www.beecrowd.com.br/repository/UOJ_2587.html) - Jetiqui
+- [ ]  [2588](https://www.beecrowd.com.br/repository/UOJ_2588.html) - Jogo dos Palíndromos
+- [ ]  [2651](https://www.beecrowd.com.br/repository/UOJ_2651.html) - Link Bolado
+- [ ]  [2669](https://www.beecrowd.com.br/repository/UOJ_2669.html) - Laboratório de Biotecnologia
+- [ ]  [2678](https://www.beecrowd.com.br/repository/UOJ_2678.html) - Discagem de Voz
+- [ ]  [2690](https://www.beecrowd.com.br/repository/UOJ_2690.html) - Nova Senha RA
+- [ ]  [2691](https://www.beecrowd.com.br/repository/UOJ_2691.html) - O Matemático
+- [ ]  [2692](https://www.beecrowd.com.br/repository/UOJ_2692.html) - Teclado Zoeiro
+- [ ]  [2697](https://www.beecrowd.com.br/repository/UOJ_2697.html) - Sequencia Completa de Naebbirac
+- [ ]  [2714](https://www.beecrowd.com.br/repository/UOJ_2714.html) - Minha Senha Provisória
+- [ ]  [2722](https://www.beecrowd.com.br/repository/UOJ_2722.html) - Pegadinha de Evergreen
+- [ ]  [2815](https://www.beecrowd.com.br/repository/UOJ_2815.html) - Digitador Gago
+- [ ]  [2824](https://www.beecrowd.com.br/repository/UOJ_2824.html) - Pudim
+- [ ]  [2825](https://www.beecrowd.com.br/repository/UOJ_2825.html) - L de Atreus!?
+- [ ]  [2827](https://www.beecrowd.com.br/repository/UOJ_2827.html) - Contador de Tokens
+- [ ]  [2866](https://www.beecrowd.com.br/repository/UOJ_2866.html) - Criptotexto
+- [ ]  [2880](https://www.beecrowd.com.br/repository/UOJ_2880.html) - Enigma
+- [ ]  [2906](https://www.beecrowd.com.br/repository/UOJ_2906.html) - Database of Clients
+- [ ]  [2954](https://www.beecrowd.com.br/repository/UOJ_2954.html) - O Jogo
+- [ ]  [2960](https://www.beecrowd.com.br/repository/UOJ_2960.html) - Era Uma Vez…
+- [ ]  [2974](https://www.beecrowd.com.br/repository/UOJ_2974.html) - Fechadura
+- [ ]  [2975](https://www.beecrowd.com.br/repository/UOJ_2975.html) - Anel
+- [ ]  [3038](https://www.beecrowd.com.br/repository/UOJ_3038.html) - Carta de Natal Criptografada
+- [ ]  [3080](https://www.beecrowd.com.br/repository/UOJ_3080.html) - Proteja os Dados
+- [ ]  [3083](https://www.beecrowd.com.br/repository/UOJ_3083.html) - Emreh, Liug E As Strings
+- [ ]  [3088](https://www.beecrowd.com.br/repository/UOJ_3088.html) - Correção de Texto
+- [ ]  [3100](https://www.beecrowd.com.br/repository/UOJ_3100.html) - Os Dígitos da Sorte
+- [ ]  [3103](https://www.beecrowd.com.br/repository/UOJ_3103.html) - Número da Sorte
+- [ ]  [3118](https://www.beecrowd.com.br/repository/UOJ_3118.html) - Bactérias, Suas Loucas!
+- [ ]  [3141](https://www.beecrowd.com.br/repository/UOJ_3141.html) - Dúvida Etária
+- [ ]  [3143](https://www.beecrowd.com.br/repository/UOJ_3143.html) - Fugindo do Celular
+- [ ]  [3159](https://www.beecrowd.com.br/repository/UOJ_3159.html) - Tijolão
+- [ ]  [3166](https://www.beecrowd.com.br/repository/UOJ_3166.html) - Procurando Palavras na Diagonal Principal
+- [ ]  [3167](https://www.beecrowd.com.br/repository/UOJ_3167.html) - Procurando Palavras na Diagonal Secundária
+- [ ]  [3180](https://www.beecrowd.com.br/repository/UOJ_3180.html) - Roubo de Código
+- [ ]  [3261](https://www.beecrowd.com.br/repository/UOJ_3261.html) - Replicação de Vírus
+- [ ]  [3262](https://www.beecrowd.com.br/repository/UOJ_3262.html) - Timebomb
+- [ ]  [3275](https://www.beecrowd.com.br/repository/UOJ_3275.html) - Foto de Relógios
+- [ ]  [3300](https://www.beecrowd.com.br/repository/UOJ_3300.html) - Números Má Sorte Recarregados
+- [ ]  [3310](https://www.beecrowd.com.br/repository/UOJ_3310.html) - Gravity Boy
+- [ ]  [3311](https://www.beecrowd.com.br/repository/UOJ_3311.html) - Hudinho e o seu Trabalho
+- [ ]  [3313](https://www.beecrowd.com.br/repository/UOJ_3313.html) - Jogo de Palavras
+- [ ]  [3347](https://www.beecrowd.com.br/repository/UOJ_3347.html) - Ancestralidade
+- [ ]  [3353](https://www.beecrowd.com.br/repository/UOJ_3353.html) - Araucárias e a Gralha Azul de Três Olhos
+- [ ]  [3358](https://www.beecrowd.com.br/repository/UOJ_3358.html) - Sobrenome Não é Fácil
