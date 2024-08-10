@@ -5,12 +5,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
 
-driver = webdriver.Chrome()
-driver.maximize_window()
-driver.get("https://judge.beecrowd.com/en/login?redirect=%2Fen%2Fproblems%2Findex%2F6")
-
-def login(user, password_str):
-    # LOGIN:
+def login(driver, user, password_str):
     login_input = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, "email")))
     login_input.send_keys(user)
     password_input = driver.find_element(By.ID, "password")
@@ -20,8 +15,7 @@ def login(user, password_str):
     submit_button.click()
     time.sleep(2)
 
-def get_questions():
-    # Get questions:
+def get_questions(driver):
     final_list = []
     while True: 
         time.sleep(2)
@@ -36,8 +30,13 @@ def get_questions():
                     id = id_element.text
                     name = name_element.text
                     try:
-                        check_button = task.find_element(By.CSS_SELECTOR, "td.tiny img")
-                        check = True
+                        img_element = task.find_element(By.CSS_SELECTOR, "td.tiny img")
+                        img_src = img_element.get_attribute("src")
+                        
+                        if "not-solved.png" in img_src:
+                            check = False
+                        else:
+                            check = True
                     except:
                         check = False
                     final_list.append([id, name, check])
@@ -58,10 +57,9 @@ def get_questions():
 
     return final_list
 
-def write(final_list):
-    # Write to txt:
+def write(final_list, category_name, file_path):
+    # Write to md:
     print(final_list)
-    file_path = r"" # colocar o path
     with open(file_path, "w", encoding="utf-8") as r:
         total = 0
         resolvidos = 0
@@ -70,7 +68,7 @@ def write(final_list):
             if item[2]:
                 resolvidos += 1
 
-        r.write(f"# Paradigmas ({resolvidos} / {total})\n\n")
+        r.write(f"# {category_name} ({resolvidos} / {total})\n\n")
         r.write("## Problemas resolvidos\n\n")
         for item in final_list:
             if item[2]:
@@ -81,11 +79,33 @@ def write(final_list):
             if not item[2]:
                 r.write(f"- [ ]  [{item[0]}](https://www.beecrowd.com.br/repository/UOJ_{item[0]}.html) - {item[1]}\n")
 
-if __name__ == "__main__":
-    user = str(input())
-    senha = str(input())
-    login(user, senha) 
-    questions = get_questions()
-    write(questions)
+def process_category(user, password, category_num, category_name, file_path):
+    driver = webdriver.Chrome()
+    driver.maximize_window()
+    
+    # Fazer login e acessar a categoria
+    driver.get(f"https://judge.beecrowd.com/en/login?redirect=%2Fen%2Fproblems%2Findex%2F{category_num}")
+    login(driver, user, password)
 
+    # Coletar questões e escrever o README
+    questions = get_questions(driver)
+    write(questions, category_name, file_path)
+
+    # Fechar o navegador
     driver.quit()
+
+if __name__ == "__main__":
+    user = str(input("Enter username: "))
+    password = str(input("Enter password: "))
+
+    categories = [
+        {"num": 1, "name": "Iniciante", "path": r"C:\Users\Gabri\OneDrive\Ambiente de Trabalho\URI-Beecrowd\Codigo\1 - Iniciante\README.md"},
+        {"num": 2, "name": "Ad-Hoc", "path": r"C:\Users\Gabri\OneDrive\Ambiente de Trabalho\URI-Beecrowd\Codigo\2 - Ad-Hoc\README.md"},
+        {"num": 3, "name": "Strings", "path": r"C:\Users\Gabri\OneDrive\Ambiente de Trabalho\URI-Beecrowd\Codigo\3 - Strings\README.md"},
+        {"num": 4, "name": "Estruturas e Bibliotecas", "path": r"C:\Users\Gabri\OneDrive\Ambiente de Trabalho\URI-Beecrowd\Codigo\4 - Estruturas e Bibliotecas\README.md"},
+        {"num": 5, "name": "Matemática", "path": r"C:\Users\Gabri\OneDrive\Ambiente de Trabalho\URI-Beecrowd\Codigo\5 - Matemática\README.md"},
+        {"num": 6, "name": "Paradigmas", "path": r"C:\Users\Gabri\OneDrive\Ambiente de Trabalho\URI-Beecrowd\Codigo\6 - Paradigmas\README.md"}
+    ]
+
+    for category in categories:
+        process_category(user, password, category["num"], category["name"], category["path"])
