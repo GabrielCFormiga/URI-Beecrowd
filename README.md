@@ -20,6 +20,9 @@ Bons estudos!!!
 - [Matemática](https://github.com/GabrielCFormiga/URI-Beecrowd/tree/main/Codigo/5%20-%20Matem%C3%A1tica) Sistemas Numéricos, Números Primos, BigInteger...
 - [Paradigmas](https://github.com/GabrielCFormiga/URI-Beecrowd/tree/main/Codigo/6%20-%20Paradigmas) Programação Dinâmica, Busca Binária, Gulosos, Backtracking...
 
+## Problemas de Competições de Programação
+
+- [Olimpíada Brasileira de Informática (OBI)](competicoes/obi)
 
 ## Quer ajudar?
 
