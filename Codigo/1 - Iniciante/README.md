@@ -1,4 +1,4 @@
-# Iniciante (179 / 334)
+# Iniciante (180 / 334)
 
 ## Problemas resolvidos
 
@@ -163,6 +163,7 @@
 - [x]  [2152](https://www.beecrowd.com.br/repository/UOJ_2152.html) - Pepe, Já Tirei a Vela!
 - [x]  [2159](https://www.beecrowd.com.br/repository/UOJ_2159.html) - Número Aproximado de Primos
 - [x]  [2160](https://www.beecrowd.com.br/repository/UOJ_2160.html) - Nome no Formulário
+- [x]  [2161](https://www.beecrowd.com.br/repository/UOJ_2161.html) - Raiz Quadrada de 10
 - [x]  [2163](https://www.beecrowd.com.br/repository/UOJ_2163.html) - O Despertar da Força
 - [x]  [2164](https://www.beecrowd.com.br/repository/UOJ_2164.html) - Fibonacci Rápido
 - [x]  [2165](https://www.beecrowd.com.br/repository/UOJ_2165.html) - Tuitando
@@ -184,7 +185,6 @@
 
 ## Problemas não resolvidos
 
-- [ ]  [2161](https://www.beecrowd.com.br/repository/UOJ_2161.html) - Raiz Quadrada de 10
 - [ ]  [2162](https://www.beecrowd.com.br/repository/UOJ_2162.html) - Picos e Vales
 - [ ]  [2167](https://www.beecrowd.com.br/repository/UOJ_2167.html) - Falha do Motor
 - [ ]  [2168](https://www.beecrowd.com.br/repository/UOJ_2168.html) - Crepúsculo em Portland

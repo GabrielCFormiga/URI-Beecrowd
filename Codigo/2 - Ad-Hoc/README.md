@@ -1,4 +1,4 @@
-# Ad-Hoc (20 / 849)
+# Ad-Hoc (24 / 849)
 
 ## Problemas resolvidos
 
@@ -11,6 +11,10 @@
 - [x]  [1329](https://www.beecrowd.com.br/repository/UOJ_1329.html) - Cara ou Coroa
 - [x]  [1467](https://www.beecrowd.com.br/repository/UOJ_1467.html) - Zerinho ou Um
 - [x]  [1553](https://www.beecrowd.com.br/repository/UOJ_1553.html) - Perguntas mais Frequentes
+- [x]  [2187](https://www.beecrowd.com.br/repository/UOJ_2187.html) - Bits Trocados
+- [x]  [2188](https://www.beecrowd.com.br/repository/UOJ_2188.html) - Macaco-prego
+- [x]  [2189](https://www.beecrowd.com.br/repository/UOJ_2189.html) - Quermesse
+- [x]  [2191](https://www.beecrowd.com.br/repository/UOJ_2191.html) - Saldo de Gols
 - [x]  [2413](https://www.beecrowd.com.br/repository/UOJ_2413.html) - Busca na Internet
 - [x]  [2448](https://www.beecrowd.com.br/repository/UOJ_2448.html) - Carteiro
 - [x]  [2454](https://www.beecrowd.com.br/repository/UOJ_2454.html) - Flíper
@@ -288,10 +292,6 @@
 - [ ]  [2175](https://www.beecrowd.com.br/repository/UOJ_2175.html) - Qual o Mais Rápido?
 - [ ]  [2178](https://www.beecrowd.com.br/repository/UOJ_2178.html) - Lagoa Azul
 - [ ]  [2179](https://www.beecrowd.com.br/repository/UOJ_2179.html) - Batuke
-- [ ]  [2187](https://www.beecrowd.com.br/repository/UOJ_2187.html) - Bits Trocados
-- [ ]  [2188](https://www.beecrowd.com.br/repository/UOJ_2188.html) - Macaco-prego
-- [ ]  [2189](https://www.beecrowd.com.br/repository/UOJ_2189.html) - Quermesse
-- [ ]  [2191](https://www.beecrowd.com.br/repository/UOJ_2191.html) - Saldo de Gols
 - [ ]  [2192](https://www.beecrowd.com.br/repository/UOJ_2192.html) - To Add or to Multiply
 - [ ]  [2194](https://www.beecrowd.com.br/repository/UOJ_2194.html) - Ancient Messages
 - [ ]  [2195](https://www.beecrowd.com.br/repository/UOJ_2195.html) - Chips Challenge

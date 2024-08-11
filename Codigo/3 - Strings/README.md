@@ -1,11 +1,18 @@
-# Strings (16 / 150)
+# Strings (23 / 150)
 
 ## Problemas resolvidos
 
 - [x]  [1024](https://www.beecrowd.com.br/repository/UOJ_1024.html) - Criptografia
 - [x]  [1120](https://www.beecrowd.com.br/repository/UOJ_1120.html) - Revisão de Contrato
 - [x]  [1168](https://www.beecrowd.com.br/repository/UOJ_1168.html) - LED
+- [x]  [1222](https://www.beecrowd.com.br/repository/UOJ_1222.html) - Concurso de Contos
+- [x]  [1234](https://www.beecrowd.com.br/repository/UOJ_1234.html) - Sentença Dançante
+- [x]  [1235](https://www.beecrowd.com.br/repository/UOJ_1235.html) - De Dentro para Fora
+- [x]  [1237](https://www.beecrowd.com.br/repository/UOJ_1237.html) - Comparação de Substring
+- [x]  [1238](https://www.beecrowd.com.br/repository/UOJ_1238.html) - Combinador
+- [x]  [1239](https://www.beecrowd.com.br/repository/UOJ_1239.html) - Atalhos Bloggo
 - [x]  [1241](https://www.beecrowd.com.br/repository/UOJ_1241.html) - Encaixa ou Não II
+- [x]  [1277](https://www.beecrowd.com.br/repository/UOJ_1277.html) - Pouca Frequência
 - [x]  [1551](https://www.beecrowd.com.br/repository/UOJ_1551.html) - Frase Completa
 - [x]  [1873](https://www.beecrowd.com.br/repository/UOJ_1873.html) - Pedra-papel-tesoura-lagarto-Spock
 - [x]  [2062](https://www.beecrowd.com.br/repository/UOJ_2062.html) - OBI URI
@@ -22,12 +29,6 @@
 ## Problemas não resolvidos
 
 - [ ]  [1141](https://www.beecrowd.com.br/repository/UOJ_1141.html) - Cultivando Strings
-- [ ]  [1222](https://www.beecrowd.com.br/repository/UOJ_1222.html) - Concurso de Contos
-- [ ]  [1234](https://www.beecrowd.com.br/repository/UOJ_1234.html) - Sentença Dançante
-- [ ]  [1235](https://www.beecrowd.com.br/repository/UOJ_1235.html) - De Dentro para Fora
-- [ ]  [1237](https://www.beecrowd.com.br/repository/UOJ_1237.html) - Comparação de Substring
-- [ ]  [1238](https://www.beecrowd.com.br/repository/UOJ_1238.html) - Combinador
-- [ ]  [1239](https://www.beecrowd.com.br/repository/UOJ_1239.html) - Atalhos Bloggo
 - [ ]  [1243](https://www.beecrowd.com.br/repository/UOJ_1243.html) - O Quão Fácil é...
 - [ ]  [1248](https://www.beecrowd.com.br/repository/UOJ_1248.html) - Plano de Dieta
 - [ ]  [1253](https://www.beecrowd.com.br/repository/UOJ_1253.html) - Cifra de César
@@ -39,7 +40,6 @@
 - [ ]  [1272](https://www.beecrowd.com.br/repository/UOJ_1272.html) - Mensagem Oculta
 - [ ]  [1273](https://www.beecrowd.com.br/repository/UOJ_1273.html) - Justificador
 - [ ]  [1276](https://www.beecrowd.com.br/repository/UOJ_1276.html) - Faixa de Letras
-- [ ]  [1277](https://www.beecrowd.com.br/repository/UOJ_1277.html) - Pouca Frequência
 - [ ]  [1278](https://www.beecrowd.com.br/repository/UOJ_1278.html) - Justificador II
 - [ ]  [1284](https://www.beecrowd.com.br/repository/UOJ_1284.html) - Digitando no Telefone Celular
 - [ ]  [1287](https://www.beecrowd.com.br/repository/UOJ_1287.html) - Processador Amigável de Inteiros
