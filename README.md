@@ -1,17 +1,19 @@
-<h1 align="center">URI / Beecrowd </h1>
+<h1 align="center">URI / Beecrowd 🐝 </h1>
 
-Repositório com soluções de alguns exercícios da plataforma <a href="https://www.beecrowd.com.br/">beecrowd</a> (antigo URI).
+Repositório com soluções de problemas da plataforma <a href="https://www.beecrowd.com.br/">beecrowd</a> (antigo URI).
 
-Esses códigos acompanham minha jornada na programação competitiva. Por isso, podem conter erros e talvez não representem a abordagem mais eficiente em termos de complexidade de algoritmo e boas práticas de programação.
+Esses códigos acompanham minha jornada na programação competitiva. Por isso, eles podem conter erros ou não serem as soluções mais eficientes em termos de complexidade de algoritmo e boas práticas de programação.
 
-Se quiser compartilhar uma solução ou tiver alguma dúvida, não hesite em me contatar.
+Se tiver sugestões, quiser compartilhar uma solução ou até mesmo tirar dúvidas, não hesite em me contatar. 
 
-Bons estudos!!!
-
-##### [Link para o meu perfil no beecrowd 🐝](https://www.beecrowd.com.br/judge/en/profile/802875)
+<b>Bons estudos e boa codificação!!!</b>
 
 
-## Problemas por Categoria
+🔗 <a href="https://www.beecrowd.com.br/judge/en/profile/802875"> Meu perfil no beecrowd </a>
+
+
+
+## 🗂 Problemas por Categoria
 
 - [Iniciante](https://github.com/GabrielCFormiga/URI-Beecrowd/tree/main/Codigo/1%20-%20Iniciante) Problemas básicos para quem está iniciando na programação...
 - [Ad-hoc](https://github.com/GabrielCFormiga/URI-Beecrowd/tree/main/Codigo/2%20-%20Ad-Hoc) Problemas de Simulação, Datas e Ad-Hoc no geral...
@@ -20,15 +22,15 @@ Bons estudos!!!
 - [Matemática](https://github.com/GabrielCFormiga/URI-Beecrowd/tree/main/Codigo/5%20-%20Matem%C3%A1tica) Sistemas Numéricos, Números Primos, BigInteger...
 - [Paradigmas](https://github.com/GabrielCFormiga/URI-Beecrowd/tree/main/Codigo/6%20-%20Paradigmas) Programação Dinâmica, Busca Binária, Gulosos, Backtracking...
 
-## Problemas de Competições de Programação
+## 🏅 Problemas de Competições de Programação
 
 - [Olimpíada Brasileira de Informática (OBI)](competicoes/obi)
 
-## Quer ajudar?
+## 🤝 Quer contribuir?
 
 Escolha um problema ainda não resolvido e envie sua solução.
 
-- Faça um fork deste repositório <https://github.com/GabrielCFormiga/URI-Beecrowd>
-- Resolva algum problema ainda não resolvido ou melhore alguma solução existente
-- Coloque o arquivo com a solução na pasta correspondente `Codigo/categoria/beexxxx`
-- Faça um pull request
+1. Faça um fork deste repositório <https://github.com/GabrielCFormiga/URI-Beecrowd>
+2. Resolva algum problema ainda não resolvido ou melhore alguma solução existente
+3. Coloque o arquivo com a solução na pasta correspondente `Codigo/Categoria/src/xxxx`
+4. Faça um pull request
