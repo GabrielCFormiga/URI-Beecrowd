@@ -22,7 +22,7 @@ Bons estudos!!!
 
 ## Problemas de Competições de Programação
 
-- [Olimpíada Brasileira de Informática (OBI)](competicoes/obi)
+- [Olimpíada Brasileira de Informática (OBI)](Competicoes/OBI)
 
 ## Quer ajudar?
 
