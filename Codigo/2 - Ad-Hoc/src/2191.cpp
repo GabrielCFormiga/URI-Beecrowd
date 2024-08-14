@@ -1,7 +1,8 @@
 /**
 * @file 2191.cpp
+* Implementação O(n) - Kadane`s Algorithm
 *
-* Created on 2024-08-11 at 02:27:41
+* Created on 2024-08-14 at 13:32:34
 * @author GabrielCampelo
 */
 
@@ -26,35 +27,32 @@ int main() { _
         cout << "Teste " << testes << endl;
         testes++;
 
-        vector<int> saldo(n);
-        vector<int> prefix(n + 1);
-        for (int i = 0; i < n; i++) {
+        int mx = 0;
+        int curr = 0;
+        int mx_j, mx_i;
+        int i = 0;
+        for (int j = 0; j < n; j++) {
             int x, y;
             cin >> x >> y;
-            saldo[i] = x - y;
-            prefix[i + 1] = prefix[i] + saldo[i];
-        }
+            curr += x - y;
 
-        int mx_j, mx_i, mx = 0;
-        int soma;
-        for (int i = 1; i <= n; i++) {
-            for (int j = i; j <= n; j++) {
-                soma = prefix[j] - prefix[i - 1];
-                if (soma > mx) {
-                    mx = soma;
-                    mx_i = i;
-                    mx_j = j;
-                } else if (soma == mx) {
-                    if (j - i > mx_j - mx_i) {
-                        mx_i = i;
-                        mx_j = j;
-                    }
-                }
+            if (curr > mx) {
+                mx_j = j;
+                mx_i = i;
+                mx = curr;
+            } else if (curr == mx && j - i > mx_j - mx_i) {
+                mx_j = j;
+                mx_i = i;
+            }
+
+            if (curr < 0) {
+                curr = 0;
+                i = j + 1;
             }
         }
 
         if (mx == 0) cout << "nenhum" << endl << endl;
-        else cout << mx_i << ' ' << mx_j << endl << endl;
+        else cout << mx_i + 1 << ' ' << mx_j + 1 << endl << endl;
     }
     
     return 0;
