@@ -22,7 +22,7 @@ const ll LINF = 0x3f3f3f3f3f3f3f3fll;
 int main() { _
     int n;
     cin >> n;
-    cout << "Feliz n";
+    cout << "Feliz nat";
     for (int i = 0; i < n; i++) cout << 'a';
     cout << "l!\n";
 };
