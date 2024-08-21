@@ -23,18 +23,21 @@ const ll LINF = 0x3f3f3f3f3f3f3f3fll;
 struct No {
     int proxm[26];
     bool terminacao;
-    int palavras; 
+    int palavras;
+    int filhos; 
 
     No(int palavras) {
         terminacao = false;
         this->palavras = palavras;
         fill(begin(proxm), end(proxm), -1);
+        filhos = 0;
     }
 
     No() {
         terminacao = false;
         palavras = 0;
         fill(begin(proxm), end(proxm), -1);
+        filhos = 0;
     } 
 };
 
@@ -47,6 +50,7 @@ void add_string(string const &s) {
         if (trie[v].proxm[c] == -1) {
             trie[v].proxm[c] = trie.size();
             trie.push_back(No(trie[v].palavras));
+            trie[v].filhos++;
         }
         trie[v].palavras++;
         v = trie[v].proxm[c];
@@ -63,18 +67,15 @@ void busca(int teclas, int v) {
     } else if (trie[v].terminacao) {
         cnt += teclas;
     }
-
-    vector<int> filhos;
+    
     for (int i = 0; i < 26; i++) {
-        if (trie[v].proxm[i] != -1) filhos.pb(trie[v].proxm[i]);
-    }
+        if (trie[v].proxm[i] == -1) continue;
 
-    if (filhos.size() == 1) {
-        if (trie[v].terminacao) busca(teclas + 1, filhos[0]);
-        else busca(teclas, filhos[0]);
-    } else {
-        for (int i = 0; i < filhos.size(); i++) busca(teclas + 1, filhos[i]);
+        if (trie[v].filhos != 1) busca(teclas + 1, trie[v].proxm[i]);
+        else if (trie[v].terminacao) busca(teclas + 1, trie[v].proxm[i]);
+        else busca(teclas, trie[v].proxm[i]);
     }
+    
 }
 
 int main() { _
