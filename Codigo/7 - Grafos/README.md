@@ -1,8 +1,9 @@
-# Grafos (1 / 277)
+# Grafos (2 / 277)
 
 ## Problemas resolvidos
 
 - [x]  [2190](https://www.beecrowd.com.br/repository/UOJ_2190.html) - Rede Ótica
+- [x]  [3067](https://www.beecrowd.com.br/repository/UOJ_3067.html) - Dominó
 
 ## Problemas não resolvidos
 
@@ -252,7 +253,6 @@
 - [ ]  [3043](https://www.beecrowd.com.br/repository/UOJ_3043.html) - Festa Junina
 - [ ]  [3044](https://www.beecrowd.com.br/repository/UOJ_3044.html) - Manutenção
 - [ ]  [3061](https://www.beecrowd.com.br/repository/UOJ_3061.html) - Manchas de Pele
-- [ ]  [3067](https://www.beecrowd.com.br/repository/UOJ_3067.html) - Dominó
 - [ ]  [3070](https://www.beecrowd.com.br/repository/UOJ_3070.html) - Autoestradas HyperspaceTM
 - [ ]  [3072](https://www.beecrowd.com.br/repository/UOJ_3072.html) - Namoro
 - [ ]  [3075](https://www.beecrowd.com.br/repository/UOJ_3075.html) - Cassinos e Viagem

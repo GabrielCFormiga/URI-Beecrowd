@@ -1,4 +1,4 @@
-# Matemática (32 / 269)
+# Matemática (36 / 269)
 
 ## Problemas resolvidos
 
@@ -25,9 +25,13 @@
 - [x]  [1264](https://www.beecrowd.com.br/repository/UOJ_1264.html) - Um Problema Fácil!
 - [x]  [1279](https://www.beecrowd.com.br/repository/UOJ_1279.html) - Ano Bissexto ou Ano não Bissexto
 - [x]  [1280](https://www.beecrowd.com.br/repository/UOJ_1280.html) - Amigos
+- [x]  [1306](https://www.beecrowd.com.br/repository/UOJ_1306.html) - Numerando Estradas
 - [x]  [1323](https://www.beecrowd.com.br/repository/UOJ_1323.html) - Feynman
+- [x]  [1352](https://www.beecrowd.com.br/repository/UOJ_1352.html) - Loteria Quadrada
+- [x]  [1429](https://www.beecrowd.com.br/repository/UOJ_1429.html) - Fatorial de Novo!
 - [x]  [1554](https://www.beecrowd.com.br/repository/UOJ_1554.html) - Bilhar N+1
 - [x]  [1555](https://www.beecrowd.com.br/repository/UOJ_1555.html) - Funções
+- [x]  [1568](https://www.beecrowd.com.br/repository/UOJ_1568.html) - {soma+=i++} até N
 - [x]  [1580](https://www.beecrowd.com.br/repository/UOJ_1580.html) - Quid Est Veritas? Est Vir Qui Adest!
 - [x]  [1805](https://www.beecrowd.com.br/repository/UOJ_1805.html) - Soma Natural
 - [x]  [1839](https://www.beecrowd.com.br/repository/UOJ_1839.html) - A Câmara Secreta
@@ -43,7 +47,6 @@
 - [ ]  [1289](https://www.beecrowd.com.br/repository/UOJ_1289.html) - Qual é a Probabilidade?
 - [ ]  [1297](https://www.beecrowd.com.br/repository/UOJ_1297.html) - Proteção do Meio Ambiente
 - [ ]  [1304](https://www.beecrowd.com.br/repository/UOJ_1304.html) - Velocidade Média
-- [ ]  [1306](https://www.beecrowd.com.br/repository/UOJ_1306.html) - Numerando Estradas
 - [ ]  [1307](https://www.beecrowd.com.br/repository/UOJ_1307.html) - Tudo o que Você Precisa é Amor
 - [ ]  [1308](https://www.beecrowd.com.br/repository/UOJ_1308.html) - Guerreiros Etruscos Nunca Jogam Xadrez
 - [ ]  [1309](https://www.beecrowd.com.br/repository/UOJ_1309.html) - Formatação Monetária
@@ -51,7 +54,6 @@
 - [ ]  [1338](https://www.beecrowd.com.br/repository/UOJ_1338.html) - It-Miha
 - [ ]  [1346](https://www.beecrowd.com.br/repository/UOJ_1346.html) - Brincadeira de Criança
 - [ ]  [1347](https://www.beecrowd.com.br/repository/UOJ_1347.html) - Mina Kriptonita
-- [ ]  [1352](https://www.beecrowd.com.br/repository/UOJ_1352.html) - Loteria Quadrada
 - [ ]  [1353](https://www.beecrowd.com.br/repository/UOJ_1353.html) - Super Poker
 - [ ]  [1371](https://www.beecrowd.com.br/repository/UOJ_1371.html) - Fechem as Portas!
 - [ ]  [1376](https://www.beecrowd.com.br/repository/UOJ_1376.html) - Irmãos
@@ -64,7 +66,6 @@
 - [ ]  [1399](https://www.beecrowd.com.br/repository/UOJ_1399.html) - Transformador de Matriz
 - [ ]  [1400](https://www.beecrowd.com.br/repository/UOJ_1400.html) - Jogo - Contando
 - [ ]  [1422](https://www.beecrowd.com.br/repository/UOJ_1422.html) - Bactérias
-- [ ]  [1429](https://www.beecrowd.com.br/repository/UOJ_1429.html) - Fatorial de Novo!
 - [ ]  [1433](https://www.beecrowd.com.br/repository/UOJ_1433.html) - O Clube da Divisão
 - [ ]  [1434](https://www.beecrowd.com.br/repository/UOJ_1434.html) - Patrulheiros Romanos
 - [ ]  [1436](https://www.beecrowd.com.br/repository/UOJ_1436.html) - Jogo do Tijolo
@@ -85,7 +86,6 @@
 - [ ]  [1544](https://www.beecrowd.com.br/repository/UOJ_1544.html) - O Último Dígito Não-Zero
 - [ ]  [1563](https://www.beecrowd.com.br/repository/UOJ_1563.html) - O Grande Problema
 - [ ]  [1567](https://www.beecrowd.com.br/repository/UOJ_1567.html) - (2/3/4)-D Sqr/Rects/Cubes/Boxes?
-- [ ]  [1568](https://www.beecrowd.com.br/repository/UOJ_1568.html) - {soma+=i++} até N
 - [ ]  [1570](https://www.beecrowd.com.br/repository/UOJ_1570.html) - Um Dia na Terra da Matemática
 - [ ]  [1572](https://www.beecrowd.com.br/repository/UOJ_1572.html) - O Torneio Surreal
 - [ ]  [1577](https://www.beecrowd.com.br/repository/UOJ_1577.html) - Polígonos Regulares Construtíveis

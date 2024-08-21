@@ -1,4 +1,4 @@
-# Iniciante (180 / 334)
+# Iniciante (196 / 334)
 
 ## Problemas resolvidos
 
@@ -164,14 +164,28 @@
 - [x]  [2159](https://www.beecrowd.com.br/repository/UOJ_2159.html) - Número Aproximado de Primos
 - [x]  [2160](https://www.beecrowd.com.br/repository/UOJ_2160.html) - Nome no Formulário
 - [x]  [2161](https://www.beecrowd.com.br/repository/UOJ_2161.html) - Raiz Quadrada de 10
+- [x]  [2162](https://www.beecrowd.com.br/repository/UOJ_2162.html) - Picos e Vales
 - [x]  [2163](https://www.beecrowd.com.br/repository/UOJ_2163.html) - O Despertar da Força
 - [x]  [2164](https://www.beecrowd.com.br/repository/UOJ_2164.html) - Fibonacci Rápido
 - [x]  [2165](https://www.beecrowd.com.br/repository/UOJ_2165.html) - Tuitando
 - [x]  [2166](https://www.beecrowd.com.br/repository/UOJ_2166.html) - Raiz Quadrada de 2
+- [x]  [2167](https://www.beecrowd.com.br/repository/UOJ_2167.html) - Falha do Motor
+- [x]  [2168](https://www.beecrowd.com.br/repository/UOJ_2168.html) - Crepúsculo em Portland
+- [x]  [2172](https://www.beecrowd.com.br/repository/UOJ_2172.html) - Evento
+- [x]  [2176](https://www.beecrowd.com.br/repository/UOJ_2176.html) - Paridade
+- [x]  [2203](https://www.beecrowd.com.br/repository/UOJ_2203.html) - Tempestade de Corvos
 - [x]  [2221](https://www.beecrowd.com.br/repository/UOJ_2221.html) - Batalha de Pomekons
 - [x]  [2234](https://www.beecrowd.com.br/repository/UOJ_2234.html) - Cachorros-Quentes
 - [x]  [2235](https://www.beecrowd.com.br/repository/UOJ_2235.html) - Andando no Tempo
+- [x]  [2310](https://www.beecrowd.com.br/repository/UOJ_2310.html) - Voleibol
+- [x]  [2311](https://www.beecrowd.com.br/repository/UOJ_2311.html) - Saltos Ornamentais
+- [x]  [2313](https://www.beecrowd.com.br/repository/UOJ_2313.html) - Qual Triângulo
 - [x]  [2334](https://www.beecrowd.com.br/repository/UOJ_2334.html) - Patinhos
+- [x]  [2344](https://www.beecrowd.com.br/repository/UOJ_2344.html) - Notas da Prova
+- [x]  [2483](https://www.beecrowd.com.br/repository/UOJ_2483.html) - Feliz Nataaal!
+- [x]  [2486](https://www.beecrowd.com.br/repository/UOJ_2486.html) - C Mais ou Menos?
+- [x]  [2493](https://www.beecrowd.com.br/repository/UOJ_2493.html) - Jogo do Operador
+- [x]  [2502](https://www.beecrowd.com.br/repository/UOJ_2502.html) - Decifrando a Carta Criptografada
 - [x]  [2520](https://www.beecrowd.com.br/repository/UOJ_2520.html) - O Último Analógimôn
 - [x]  [2760](https://www.beecrowd.com.br/repository/UOJ_2760.html) - Entrada e Saída de String
 - [x]  [2761](https://www.beecrowd.com.br/repository/UOJ_2761.html) - Entrada e Saída de Vários Tipos
@@ -179,26 +193,14 @@
 - [x]  [2765](https://www.beecrowd.com.br/repository/UOJ_2765.html) - Entrada e Saída com Virgula
 - [x]  [2779](https://www.beecrowd.com.br/repository/UOJ_2779.html) - Álbum da Copa
 - [x]  [2783](https://www.beecrowd.com.br/repository/UOJ_2783.html) - Figurinhas da Copa
+- [x]  [3065](https://www.beecrowd.com.br/repository/UOJ_3065.html) - Calculando
+- [x]  [3068](https://www.beecrowd.com.br/repository/UOJ_3068.html) - Meteoros
 - [x]  [3241](https://www.beecrowd.com.br/repository/UOJ_3241.html) - Ajude um Candidato a PhD!
 - [x]  [3249](https://www.beecrowd.com.br/repository/UOJ_3249.html) - Death Knight Hero
 - [x]  [3344](https://www.beecrowd.com.br/repository/UOJ_3344.html) - Brute
 
 ## Problemas não resolvidos
 
-- [ ]  [2162](https://www.beecrowd.com.br/repository/UOJ_2162.html) - Picos e Vales
-- [ ]  [2167](https://www.beecrowd.com.br/repository/UOJ_2167.html) - Falha do Motor
-- [ ]  [2168](https://www.beecrowd.com.br/repository/UOJ_2168.html) - Crepúsculo em Portland
-- [ ]  [2172](https://www.beecrowd.com.br/repository/UOJ_2172.html) - Evento
-- [ ]  [2176](https://www.beecrowd.com.br/repository/UOJ_2176.html) - Paridade
-- [ ]  [2203](https://www.beecrowd.com.br/repository/UOJ_2203.html) - Tempestade de Corvos
-- [ ]  [2310](https://www.beecrowd.com.br/repository/UOJ_2310.html) - Voleibol
-- [ ]  [2311](https://www.beecrowd.com.br/repository/UOJ_2311.html) - Saltos Ornamentais
-- [ ]  [2313](https://www.beecrowd.com.br/repository/UOJ_2313.html) - Qual Triângulo
-- [ ]  [2344](https://www.beecrowd.com.br/repository/UOJ_2344.html) - Notas da Prova
-- [ ]  [2483](https://www.beecrowd.com.br/repository/UOJ_2483.html) - Feliz Nataaal!
-- [ ]  [2486](https://www.beecrowd.com.br/repository/UOJ_2486.html) - C Mais ou Menos?
-- [ ]  [2493](https://www.beecrowd.com.br/repository/UOJ_2493.html) - Jogo do Operador
-- [ ]  [2502](https://www.beecrowd.com.br/repository/UOJ_2502.html) - Decifrando a Carta Criptografada
 - [ ]  [2510](https://www.beecrowd.com.br/repository/UOJ_2510.html) - Batmain
 - [ ]  [2523](https://www.beecrowd.com.br/repository/UOJ_2523.html) - A Mensagem de Will
 - [ ]  [2533](https://www.beecrowd.com.br/repository/UOJ_2533.html) - Estágio
@@ -291,8 +293,6 @@
 - [ ]  [3047](https://www.beecrowd.com.br/repository/UOJ_3047.html) - A idade de Dona Mônica
 - [ ]  [3053](https://www.beecrowd.com.br/repository/UOJ_3053.html) - Jogo Dos Copos
 - [ ]  [3055](https://www.beecrowd.com.br/repository/UOJ_3055.html) - Nota Esquecida
-- [ ]  [3065](https://www.beecrowd.com.br/repository/UOJ_3065.html) - Calculando
-- [ ]  [3068](https://www.beecrowd.com.br/repository/UOJ_3068.html) - Meteoros
 - [ ]  [3076](https://www.beecrowd.com.br/repository/UOJ_3076.html) - Exercício de História
 - [ ]  [3084](https://www.beecrowd.com.br/repository/UOJ_3084.html) - Relógio Antigo
 - [ ]  [3089](https://www.beecrowd.com.br/repository/UOJ_3089.html) - Presentes de Natal

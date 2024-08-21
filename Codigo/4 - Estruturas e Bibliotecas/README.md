@@ -1,4 +1,4 @@
-# Estruturas e Bibliotecas (9 / 180)
+# Estruturas e Bibliotecas (10 / 180)
 
 ## Problemas resolvidos
 
@@ -11,6 +11,7 @@
 - [x]  [1281](https://www.beecrowd.com.br/repository/UOJ_1281.html) - Ida à Feira
 - [x]  [1548](https://www.beecrowd.com.br/repository/UOJ_1548.html) - Fila do Recreio
 - [x]  [2929](https://www.beecrowd.com.br/repository/UOJ_2929.html) - Menor da Pilha
+- [x]  [3069](https://www.beecrowd.com.br/repository/UOJ_3069.html) - Sorvete
 
 ## Problemas não resolvidos
 
@@ -166,7 +167,6 @@
 - [ ]  [2961](https://www.beecrowd.com.br/repository/UOJ_2961.html) - Ô, Que Tanto de Filme!
 - [ ]  [2984](https://www.beecrowd.com.br/repository/UOJ_2984.html) - Assuntos Pendentes
 - [ ]  [3045](https://www.beecrowd.com.br/repository/UOJ_3045.html) - Parque Jurássico
-- [ ]  [3069](https://www.beecrowd.com.br/repository/UOJ_3069.html) - Sorvete
 - [ ]  [3097](https://www.beecrowd.com.br/repository/UOJ_3097.html) - Um Desafio Simples
 - [ ]  [3139](https://www.beecrowd.com.br/repository/UOJ_3139.html) - Buscando Novos Seguidores
 - [ ]  [3148](https://www.beecrowd.com.br/repository/UOJ_3148.html) - O Jardim

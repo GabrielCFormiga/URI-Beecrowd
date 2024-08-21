@@ -106,7 +106,7 @@ if __name__ == "__main__":
         {"num": 5, "name": "Matemática", "path": r"C:\Users\Gabri\OneDrive\Ambiente de Trabalho\URI-Beecrowd\Codigo\5 - Matemática\README.md"},
         {"num": 6, "name": "Paradigmas", "path": r"C:\Users\Gabri\OneDrive\Ambiente de Trabalho\URI-Beecrowd\Codigo\6 - Paradigmas\README.md"},
         {"num": 7, "name": "Grafos", "path": r"C:\Users\Gabri\OneDrive\Ambiente de Trabalho\URI-Beecrowd\Codigo\7 - Grafos\README.md"},
-        {"num": 8, "name": "Grafos", "path": r"C:\Users\Gabri\OneDrive\Ambiente de Trabalho\URI-Beecrowd\Codigo\8 - Geometria Computacional\README.md"}
+        {"num": 8, "name": "Geometrial Computacional", "path": r"C:\Users\Gabri\OneDrive\Ambiente de Trabalho\URI-Beecrowd\Codigo\8 - Geometria Computacional\README.md"}
     ]
 
     for category in categories:

@@ -1,4 +1,4 @@
-# Ad-Hoc (24 / 849)
+# Ad-Hoc (25 / 849)
 
 ## Problemas resolvidos
 
@@ -15,6 +15,7 @@
 - [x]  [2188](https://www.beecrowd.com.br/repository/UOJ_2188.html) - Macaco-prego
 - [x]  [2189](https://www.beecrowd.com.br/repository/UOJ_2189.html) - Quermesse
 - [x]  [2191](https://www.beecrowd.com.br/repository/UOJ_2191.html) - Saldo de Gols
+- [x]  [2374](https://www.beecrowd.com.br/repository/UOJ_2374.html) - Pneu
 - [x]  [2413](https://www.beecrowd.com.br/repository/UOJ_2413.html) - Busca na Internet
 - [x]  [2448](https://www.beecrowd.com.br/repository/UOJ_2448.html) - Carteiro
 - [x]  [2454](https://www.beecrowd.com.br/repository/UOJ_2454.html) - Flíper
@@ -414,7 +415,6 @@
 - [ ]  [2369](https://www.beecrowd.com.br/repository/UOJ_2369.html) - Conta de Água
 - [ ]  [2371](https://www.beecrowd.com.br/repository/UOJ_2371.html) - Batalha Naval
 - [ ]  [2373](https://www.beecrowd.com.br/repository/UOJ_2373.html) - Garçom
-- [ ]  [2374](https://www.beecrowd.com.br/repository/UOJ_2374.html) - Pneu
 - [ ]  [2375](https://www.beecrowd.com.br/repository/UOJ_2375.html) - Sedex
 - [ ]  [2376](https://www.beecrowd.com.br/repository/UOJ_2376.html) - Copa do Mundo
 - [ ]  [2377](https://www.beecrowd.com.br/repository/UOJ_2377.html) - Pedágio

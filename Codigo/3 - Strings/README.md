@@ -1,4 +1,4 @@
-# Strings (23 / 150)
+# Strings (25 / 150)
 
 ## Problemas resolvidos
 
@@ -13,6 +13,8 @@
 - [x]  [1239](https://www.beecrowd.com.br/repository/UOJ_1239.html) - Atalhos Bloggo
 - [x]  [1241](https://www.beecrowd.com.br/repository/UOJ_1241.html) - Encaixa ou Não II
 - [x]  [1277](https://www.beecrowd.com.br/repository/UOJ_1277.html) - Pouca Frequência
+- [x]  [1278](https://www.beecrowd.com.br/repository/UOJ_1278.html) - Justificador II
+- [x]  [1284](https://www.beecrowd.com.br/repository/UOJ_1284.html) - Digitando no Telefone Celular
 - [x]  [1551](https://www.beecrowd.com.br/repository/UOJ_1551.html) - Frase Completa
 - [x]  [1873](https://www.beecrowd.com.br/repository/UOJ_1873.html) - Pedra-papel-tesoura-lagarto-Spock
 - [x]  [2062](https://www.beecrowd.com.br/repository/UOJ_2062.html) - OBI URI
@@ -40,8 +42,6 @@
 - [ ]  [1272](https://www.beecrowd.com.br/repository/UOJ_1272.html) - Mensagem Oculta
 - [ ]  [1273](https://www.beecrowd.com.br/repository/UOJ_1273.html) - Justificador
 - [ ]  [1276](https://www.beecrowd.com.br/repository/UOJ_1276.html) - Faixa de Letras
-- [ ]  [1278](https://www.beecrowd.com.br/repository/UOJ_1278.html) - Justificador II
-- [ ]  [1284](https://www.beecrowd.com.br/repository/UOJ_1284.html) - Digitando no Telefone Celular
 - [ ]  [1287](https://www.beecrowd.com.br/repository/UOJ_1287.html) - Processador Amigável de Inteiros
 - [ ]  [1305](https://www.beecrowd.com.br/repository/UOJ_1305.html) - Arredondamento por Valor de Corte
 - [ ]  [1313](https://www.beecrowd.com.br/repository/UOJ_1313.html) - Dicionário Portuñol
