@@ -1,4 +1,8 @@
-<h1 align="center">URI / Beecrowd 🐝 </h1>
+# 300+ Soluções para Problemas do URI / Beecrowd 🐝 
+
+[![C++](https://img.shields.io/badge/C%2B%2B-brightgreen?style=plastic&logo=cplusplus)](https://en.cppreference.com/w/)
+[![Python](https://img.shields.io/badge/Python-brightgreen?style=plastic&logo=python)](https://docs.python.org/3/)
+[![Problemas Resolvidos](https://img.shields.io/badge/Problemas%20Resolvidos-327-brightgreen?style=plastic)](https://github.com/potigol/beecrowd/commits/master)
 
 Repositório com soluções de problemas da plataforma <a href="https://www.beecrowd.com.br/">beecrowd</a> (antigo URI).
 
