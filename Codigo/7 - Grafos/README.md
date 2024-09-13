@@ -1,7 +1,8 @@
-# Grafos (2 / 277)
+# Grafos (3 / 277)
 
 ## Problemas resolvidos
 
+- [x]  [1152](https://www.beecrowd.com.br/repository/UOJ_1152.html) - Estradas Escuras
 - [x]  [2190](https://www.beecrowd.com.br/repository/UOJ_2190.html) - Rede Ótica
 - [x]  [3067](https://www.beecrowd.com.br/repository/UOJ_3067.html) - Dominó
 
@@ -20,7 +21,6 @@
 - [ ]  [1128](https://www.beecrowd.com.br/repository/UOJ_1128.html) - Ir e Vir
 - [ ]  [1135](https://www.beecrowd.com.br/repository/UOJ_1135.html) - Colônia de Formigas
 - [ ]  [1148](https://www.beecrowd.com.br/repository/UOJ_1148.html) - Países em Guerra
-- [ ]  [1152](https://www.beecrowd.com.br/repository/UOJ_1152.html) - Estradas Escuras
 - [ ]  [1191](https://www.beecrowd.com.br/repository/UOJ_1191.html) - Recuperação da Árvore
 - [ ]  [1194](https://www.beecrowd.com.br/repository/UOJ_1194.html) - Prefixa, Infixa e Posfixa
 - [ ]  [1195](https://www.beecrowd.com.br/repository/UOJ_1195.html) - Árvore Binária de Busca

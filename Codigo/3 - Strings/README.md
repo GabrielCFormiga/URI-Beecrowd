@@ -1,4 +1,4 @@
-# Strings (25 / 150)
+# Strings (33 / 150)
 
 ## Problemas resolvidos
 
@@ -12,6 +12,14 @@
 - [x]  [1238](https://www.beecrowd.com.br/repository/UOJ_1238.html) - Combinador
 - [x]  [1239](https://www.beecrowd.com.br/repository/UOJ_1239.html) - Atalhos Bloggo
 - [x]  [1241](https://www.beecrowd.com.br/repository/UOJ_1241.html) - Encaixa ou Não II
+- [x]  [1248](https://www.beecrowd.com.br/repository/UOJ_1248.html) - Plano de Dieta
+- [x]  [1253](https://www.beecrowd.com.br/repository/UOJ_1253.html) - Cifra de César
+- [x]  [1255](https://www.beecrowd.com.br/repository/UOJ_1255.html) - Frequência de Letras
+- [x]  [1257](https://www.beecrowd.com.br/repository/UOJ_1257.html) - Array Hash
+- [x]  [1262](https://www.beecrowd.com.br/repository/UOJ_1262.html) - Leitura Múltipla
+- [x]  [1263](https://www.beecrowd.com.br/repository/UOJ_1263.html) - Aliteração
+- [x]  [1272](https://www.beecrowd.com.br/repository/UOJ_1272.html) - Mensagem Oculta
+- [x]  [1273](https://www.beecrowd.com.br/repository/UOJ_1273.html) - Justificador
 - [x]  [1277](https://www.beecrowd.com.br/repository/UOJ_1277.html) - Pouca Frequência
 - [x]  [1278](https://www.beecrowd.com.br/repository/UOJ_1278.html) - Justificador II
 - [x]  [1284](https://www.beecrowd.com.br/repository/UOJ_1284.html) - Digitando no Telefone Celular
@@ -32,15 +40,7 @@
 
 - [ ]  [1141](https://www.beecrowd.com.br/repository/UOJ_1141.html) - Cultivando Strings
 - [ ]  [1243](https://www.beecrowd.com.br/repository/UOJ_1243.html) - O Quão Fácil é...
-- [ ]  [1248](https://www.beecrowd.com.br/repository/UOJ_1248.html) - Plano de Dieta
-- [ ]  [1253](https://www.beecrowd.com.br/repository/UOJ_1253.html) - Cifra de César
 - [ ]  [1254](https://www.beecrowd.com.br/repository/UOJ_1254.html) - Substituição de Tag
-- [ ]  [1255](https://www.beecrowd.com.br/repository/UOJ_1255.html) - Frequência de Letras
-- [ ]  [1257](https://www.beecrowd.com.br/repository/UOJ_1257.html) - Array Hash
-- [ ]  [1262](https://www.beecrowd.com.br/repository/UOJ_1262.html) - Leitura Múltipla
-- [ ]  [1263](https://www.beecrowd.com.br/repository/UOJ_1263.html) - Aliteração
-- [ ]  [1272](https://www.beecrowd.com.br/repository/UOJ_1272.html) - Mensagem Oculta
-- [ ]  [1273](https://www.beecrowd.com.br/repository/UOJ_1273.html) - Justificador
 - [ ]  [1276](https://www.beecrowd.com.br/repository/UOJ_1276.html) - Faixa de Letras
 - [ ]  [1287](https://www.beecrowd.com.br/repository/UOJ_1287.html) - Processador Amigável de Inteiros
 - [ ]  [1305](https://www.beecrowd.com.br/repository/UOJ_1305.html) - Arredondamento por Valor de Corte

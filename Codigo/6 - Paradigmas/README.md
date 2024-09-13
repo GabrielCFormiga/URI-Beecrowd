@@ -1,14 +1,14 @@
-# Paradigmas (1 / 215)
+# Paradigmas (2 / 215)
 
 ## Problemas resolvidos
 
 - [x]  [1029](https://www.beecrowd.com.br/repository/UOJ_1029.html) - Fibonacci, Quantas Chamadas?
+- [x]  [1034](https://www.beecrowd.com.br/repository/UOJ_1034.html) - Festival de Estátuas de Gelo
 
 ## Problemas não resolvidos
 
 - [ ]  [1027](https://www.beecrowd.com.br/repository/UOJ_1027.html) - Onda Crítica
 - [ ]  [1033](https://www.beecrowd.com.br/repository/UOJ_1033.html) - Quantas Chamadas Recursivas?
-- [ ]  [1034](https://www.beecrowd.com.br/repository/UOJ_1034.html) - Festival de Estátuas de Gelo
 - [ ]  [1054](https://www.beecrowd.com.br/repository/UOJ_1054.html) - Sapo Dinâmico
 - [ ]  [1055](https://www.beecrowd.com.br/repository/UOJ_1055.html) - Soma Permutada Elegante
 - [ ]  [1058](https://www.beecrowd.com.br/repository/UOJ_1058.html) - Zonas de Ataque Independentes

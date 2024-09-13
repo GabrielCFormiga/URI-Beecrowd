@@ -1,4 +1,4 @@
-# Matemática (36 / 269)
+# Matemática (38 / 269)
 
 ## Problemas resolvidos
 
@@ -17,6 +17,7 @@
 - [x]  [1213](https://www.beecrowd.com.br/repository/UOJ_1213.html) - Ones
 - [x]  [1214](https://www.beecrowd.com.br/repository/UOJ_1214.html) - Acima da Média
 - [x]  [1219](https://www.beecrowd.com.br/repository/UOJ_1219.html) - Flores Coloridas
+- [x]  [1220](https://www.beecrowd.com.br/repository/UOJ_1220.html) - A Viagem
 - [x]  [1221](https://www.beecrowd.com.br/repository/UOJ_1221.html) - Primo Rápido
 - [x]  [1232](https://www.beecrowd.com.br/repository/UOJ_1232.html) - Ciclo de Rubik
 - [x]  [1233](https://www.beecrowd.com.br/repository/UOJ_1233.html) - Estrela
@@ -26,6 +27,7 @@
 - [x]  [1279](https://www.beecrowd.com.br/repository/UOJ_1279.html) - Ano Bissexto ou Ano não Bissexto
 - [x]  [1280](https://www.beecrowd.com.br/repository/UOJ_1280.html) - Amigos
 - [x]  [1306](https://www.beecrowd.com.br/repository/UOJ_1306.html) - Numerando Estradas
+- [x]  [1307](https://www.beecrowd.com.br/repository/UOJ_1307.html) - Tudo o que Você Precisa é Amor
 - [x]  [1323](https://www.beecrowd.com.br/repository/UOJ_1323.html) - Feynman
 - [x]  [1352](https://www.beecrowd.com.br/repository/UOJ_1352.html) - Loteria Quadrada
 - [x]  [1429](https://www.beecrowd.com.br/repository/UOJ_1429.html) - Fatorial de Novo!
@@ -42,12 +44,10 @@
 ## Problemas não resolvidos
 
 - [ ]  [1202](https://www.beecrowd.com.br/repository/UOJ_1202.html) - Festival das Noites Brancas
-- [ ]  [1220](https://www.beecrowd.com.br/repository/UOJ_1220.html) - A Viagem
 - [ ]  [1230](https://www.beecrowd.com.br/repository/UOJ_1230.html) - Integral
 - [ ]  [1289](https://www.beecrowd.com.br/repository/UOJ_1289.html) - Qual é a Probabilidade?
 - [ ]  [1297](https://www.beecrowd.com.br/repository/UOJ_1297.html) - Proteção do Meio Ambiente
 - [ ]  [1304](https://www.beecrowd.com.br/repository/UOJ_1304.html) - Velocidade Média
-- [ ]  [1307](https://www.beecrowd.com.br/repository/UOJ_1307.html) - Tudo o que Você Precisa é Amor
 - [ ]  [1308](https://www.beecrowd.com.br/repository/UOJ_1308.html) - Guerreiros Etruscos Nunca Jogam Xadrez
 - [ ]  [1309](https://www.beecrowd.com.br/repository/UOJ_1309.html) - Formatação Monetária
 - [ ]  [1324](https://www.beecrowd.com.br/repository/UOJ_1324.html) - Bóson de Higgs

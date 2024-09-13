@@ -1,16 +1,25 @@
-# Ad-Hoc (25 / 849)
+# Ad-Hoc (34 / 849)
 
 ## Problemas resolvidos
 
 - [x]  [1026](https://www.beecrowd.com.br/repository/UOJ_1026.html) - Carrega ou não Carrega?
 - [x]  [1030](https://www.beecrowd.com.br/repository/UOJ_1030.html) - A Lenda de Flavious Josephus
+- [x]  [1087](https://www.beecrowd.com.br/repository/UOJ_1087.html) - Dama
+- [x]  [1089](https://www.beecrowd.com.br/repository/UOJ_1089.html) - Loop Musical
+- [x]  [1091](https://www.beecrowd.com.br/repository/UOJ_1091.html) - Divisão da Nlogônia
+- [x]  [1103](https://www.beecrowd.com.br/repository/UOJ_1103.html) - Alarme Despertador
+- [x]  [1105](https://www.beecrowd.com.br/repository/UOJ_1105.html) - Sub-prime
+- [x]  [1140](https://www.beecrowd.com.br/repository/UOJ_1140.html) - Flores Florescem da França
+- [x]  [1147](https://www.beecrowd.com.br/repository/UOJ_1147.html) - Fuga do Cavalo
 - [x]  [1171](https://www.beecrowd.com.br/repository/UOJ_1171.html) - Frequência de Números
 - [x]  [1228](https://www.beecrowd.com.br/repository/UOJ_1228.html) - Grid de Largada
 - [x]  [1245](https://www.beecrowd.com.br/repository/UOJ_1245.html) - Botas Perdidas
 - [x]  [1318](https://www.beecrowd.com.br/repository/UOJ_1318.html) - Bilhetes Falsos
 - [x]  [1329](https://www.beecrowd.com.br/repository/UOJ_1329.html) - Cara ou Coroa
+- [x]  [1383](https://www.beecrowd.com.br/repository/UOJ_1383.html) - Sudoku
 - [x]  [1467](https://www.beecrowd.com.br/repository/UOJ_1467.html) - Zerinho ou Um
 - [x]  [1553](https://www.beecrowd.com.br/repository/UOJ_1553.html) - Perguntas mais Frequentes
+- [x]  [1609](https://www.beecrowd.com.br/repository/UOJ_1609.html) - Contando Carneirinhos
 - [x]  [2187](https://www.beecrowd.com.br/repository/UOJ_2187.html) - Bits Trocados
 - [x]  [2188](https://www.beecrowd.com.br/repository/UOJ_2188.html) - Macaco-prego
 - [x]  [2189](https://www.beecrowd.com.br/repository/UOJ_2189.html) - Quermesse
@@ -33,14 +42,9 @@
 - [ ]  [1031](https://www.beecrowd.com.br/repository/UOJ_1031.html) - Crise de Energia
 - [ ]  [1032](https://www.beecrowd.com.br/repository/UOJ_1032.html) - O Primo de Josephus
 - [ ]  [1086](https://www.beecrowd.com.br/repository/UOJ_1086.html) - O Salão do Clube
-- [ ]  [1087](https://www.beecrowd.com.br/repository/UOJ_1087.html) - Dama
-- [ ]  [1089](https://www.beecrowd.com.br/repository/UOJ_1089.html) - Loop Musical
 - [ ]  [1090](https://www.beecrowd.com.br/repository/UOJ_1090.html) - Set
-- [ ]  [1091](https://www.beecrowd.com.br/repository/UOJ_1091.html) - Divisão da Nlogônia
 - [ ]  [1092](https://www.beecrowd.com.br/repository/UOJ_1092.html) - Maior Subseqüência Crescente
-- [ ]  [1103](https://www.beecrowd.com.br/repository/UOJ_1103.html) - Alarme Despertador
 - [ ]  [1104](https://www.beecrowd.com.br/repository/UOJ_1104.html) - Troca de Cartas
-- [ ]  [1105](https://www.beecrowd.com.br/repository/UOJ_1105.html) - Sub-prime
 - [ ]  [1107](https://www.beecrowd.com.br/repository/UOJ_1107.html) - Escultura à Laser
 - [ ]  [1109](https://www.beecrowd.com.br/repository/UOJ_1109.html) - Burlando a Maratona
 - [ ]  [1121](https://www.beecrowd.com.br/repository/UOJ_1121.html) - Robô Colecionador
@@ -51,8 +55,6 @@
 - [ ]  [1130](https://www.beecrowd.com.br/repository/UOJ_1130.html) - Jogo da Velha
 - [ ]  [1136](https://www.beecrowd.com.br/repository/UOJ_1136.html) - Bingo!
 - [ ]  [1139](https://www.beecrowd.com.br/repository/UOJ_1139.html) - Necessidades Elétricas
-- [ ]  [1140](https://www.beecrowd.com.br/repository/UOJ_1140.html) - Flores Florescem da França
-- [ ]  [1147](https://www.beecrowd.com.br/repository/UOJ_1147.html) - Fuga do Cavalo
 - [ ]  [1192](https://www.beecrowd.com.br/repository/UOJ_1192.html) - O jogo Matemático de Paula
 - [ ]  [1196](https://www.beecrowd.com.br/repository/UOJ_1196.html) - WERTYU
 - [ ]  [1206](https://www.beecrowd.com.br/repository/UOJ_1206.html) - Desafio de São Petersburgo
@@ -92,7 +94,6 @@
 - [ ]  [1374](https://www.beecrowd.com.br/repository/UOJ_1374.html) - Eletricidade
 - [ ]  [1375](https://www.beecrowd.com.br/repository/UOJ_1375.html) - Painel de Posições
 - [ ]  [1379](https://www.beecrowd.com.br/repository/UOJ_1379.html) - Problema com Mediana e Média
-- [ ]  [1383](https://www.beecrowd.com.br/repository/UOJ_1383.html) - Sudoku
 - [ ]  [1387](https://www.beecrowd.com.br/repository/UOJ_1387.html) - Og
 - [ ]  [1397](https://www.beecrowd.com.br/repository/UOJ_1397.html) - Jogo do Maior
 - [ ]  [1403](https://www.beecrowd.com.br/repository/UOJ_1403.html) - Meu Avô é Famoso
@@ -147,7 +148,6 @@
 - [ ]  [1588](https://www.beecrowd.com.br/repository/UOJ_1588.html) - Ajude a Federação
 - [ ]  [1591](https://www.beecrowd.com.br/repository/UOJ_1591.html) - Dia da Vovó
 - [ ]  [1593](https://www.beecrowd.com.br/repository/UOJ_1593.html) - Função Binária
-- [ ]  [1609](https://www.beecrowd.com.br/repository/UOJ_1609.html) - Contando Carneirinhos
 - [ ]  [1612](https://www.beecrowd.com.br/repository/UOJ_1612.html) - Formiguinha
 - [ ]  [1615](https://www.beecrowd.com.br/repository/UOJ_1615.html) - Insatisfação nas Eleições
 - [ ]  [1618](https://www.beecrowd.com.br/repository/UOJ_1618.html) - Colisão

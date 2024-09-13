@@ -1,4 +1,4 @@
-# Iniciante (196 / 334)
+# Iniciante (201 / 334)
 
 ## Problemas resolvidos
 
@@ -186,7 +186,12 @@
 - [x]  [2486](https://www.beecrowd.com.br/repository/UOJ_2486.html) - C Mais ou Menos?
 - [x]  [2493](https://www.beecrowd.com.br/repository/UOJ_2493.html) - Jogo do Operador
 - [x]  [2502](https://www.beecrowd.com.br/repository/UOJ_2502.html) - Decifrando a Carta Criptografada
+- [x]  [2510](https://www.beecrowd.com.br/repository/UOJ_2510.html) - Batmain
 - [x]  [2520](https://www.beecrowd.com.br/repository/UOJ_2520.html) - O Último Analógimôn
+- [x]  [2523](https://www.beecrowd.com.br/repository/UOJ_2523.html) - A Mensagem de Will
+- [x]  [2533](https://www.beecrowd.com.br/repository/UOJ_2533.html) - Estágio
+- [x]  [2534](https://www.beecrowd.com.br/repository/UOJ_2534.html) - Exame Geral
+- [x]  [2540](https://www.beecrowd.com.br/repository/UOJ_2540.html) - Impeachment do Líder
 - [x]  [2760](https://www.beecrowd.com.br/repository/UOJ_2760.html) - Entrada e Saída de String
 - [x]  [2761](https://www.beecrowd.com.br/repository/UOJ_2761.html) - Entrada e Saída de Vários Tipos
 - [x]  [2764](https://www.beecrowd.com.br/repository/UOJ_2764.html) - Entrada e Saída de Data
@@ -201,11 +206,6 @@
 
 ## Problemas não resolvidos
 
-- [ ]  [2510](https://www.beecrowd.com.br/repository/UOJ_2510.html) - Batmain
-- [ ]  [2523](https://www.beecrowd.com.br/repository/UOJ_2523.html) - A Mensagem de Will
-- [ ]  [2533](https://www.beecrowd.com.br/repository/UOJ_2533.html) - Estágio
-- [ ]  [2534](https://www.beecrowd.com.br/repository/UOJ_2534.html) - Exame Geral
-- [ ]  [2540](https://www.beecrowd.com.br/repository/UOJ_2540.html) - Impeachment do Líder
 - [ ]  [2542](https://www.beecrowd.com.br/repository/UOJ_2542.html) - Iu-Di-Oh!
 - [ ]  [2543](https://www.beecrowd.com.br/repository/UOJ_2543.html) - Jogatina UFPR
 - [ ]  [2544](https://www.beecrowd.com.br/repository/UOJ_2544.html) - Kage Bunshin no Jutsu

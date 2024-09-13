@@ -1,4 +1,4 @@
-# Estruturas e Bibliotecas (10 / 180)
+# Estruturas e Bibliotecas (14 / 180)
 
 ## Problemas resolvidos
 
@@ -8,18 +8,19 @@
 - [x]  [1062](https://www.beecrowd.com.br/repository/UOJ_1062.html) - Trilhos
 - [x]  [1063](https://www.beecrowd.com.br/repository/UOJ_1063.html) - Trilhos Novamente... Traçando Movimentos
 - [x]  [1068](https://www.beecrowd.com.br/repository/UOJ_1068.html) - Balanço de Parênteses I
+- [x]  [1069](https://www.beecrowd.com.br/repository/UOJ_1069.html) - Diamantes e Areia
+- [x]  [1088](https://www.beecrowd.com.br/repository/UOJ_1088.html) - Bolhas e Baldes
+- [x]  [1110](https://www.beecrowd.com.br/repository/UOJ_1110.html) - Jogando Cartas Fora
 - [x]  [1281](https://www.beecrowd.com.br/repository/UOJ_1281.html) - Ida à Feira
+- [x]  [1430](https://www.beecrowd.com.br/repository/UOJ_1430.html) - Composição de Jingles
 - [x]  [1548](https://www.beecrowd.com.br/repository/UOJ_1548.html) - Fila do Recreio
 - [x]  [2929](https://www.beecrowd.com.br/repository/UOJ_2929.html) - Menor da Pilha
 - [x]  [3069](https://www.beecrowd.com.br/repository/UOJ_3069.html) - Sorvete
 
 ## Problemas não resolvidos
 
-- [ ]  [1069](https://www.beecrowd.com.br/repository/UOJ_1069.html) - Diamantes e Areia
 - [ ]  [1077](https://www.beecrowd.com.br/repository/UOJ_1077.html) - Infixa para Posfixa
 - [ ]  [1083](https://www.beecrowd.com.br/repository/UOJ_1083.html) - LEXSIM - Avaliador Lexico e Sintático
-- [ ]  [1088](https://www.beecrowd.com.br/repository/UOJ_1088.html) - Bolhas e Baldes
-- [ ]  [1110](https://www.beecrowd.com.br/repository/UOJ_1110.html) - Jogando Cartas Fora
 - [ ]  [1112](https://www.beecrowd.com.br/repository/UOJ_1112.html) - Schweisen
 - [ ]  [1119](https://www.beecrowd.com.br/repository/UOJ_1119.html) - A Fila de Desempregados
 - [ ]  [1162](https://www.beecrowd.com.br/repository/UOJ_1162.html) - Organizador de Vagões
@@ -48,7 +49,6 @@
 - [ ]  [1405](https://www.beecrowd.com.br/repository/UOJ_1405.html) - O Problema da Parada
 - [ ]  [1424](https://www.beecrowd.com.br/repository/UOJ_1424.html) - Problema Fácil de Rujia Liu?
 - [ ]  [1425](https://www.beecrowd.com.br/repository/UOJ_1425.html) - Presente?!
-- [ ]  [1430](https://www.beecrowd.com.br/repository/UOJ_1430.html) - Composição de Jingles
 - [ ]  [1439](https://www.beecrowd.com.br/repository/UOJ_1439.html) - Bora Bora
 - [ ]  [1449](https://www.beecrowd.com.br/repository/UOJ_1449.html) - O Fantástico Jaspion
 - [ ]  [1451](https://www.beecrowd.com.br/repository/UOJ_1451.html) - Teclado Quebrado
