@@ -29,7 +29,7 @@ Se tiver sugestões, quiser compartilhar uma solução ou até mesmo tirar dúvi
 - [Geometria Computacional](https://github.com/GabrielCFormiga/URI-Beecrowd/tree/main/Codigo/8%20-%20Geometria%20Computacional) Pontos e Linhas, Polígonos...
 
 ## 🏅 Problemas de Competições de Programação
-
+- [ACM ICPC Latin America Regional Contests](Competicoes/ICPC%20Latin%20America)
 - [Olimpíada Brasileira de Informática (OBI)](Competicoes/OBI)
 
 ## 🤝 Quer contribuir?
